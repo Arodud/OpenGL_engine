@@ -134,6 +134,7 @@
     <ClInclude Include="src\OGL\App.h" />
     <ClInclude Include="src\OGL\Core.h" />
     <ClInclude Include="src\OGL.h" />
+    <ClInclude Include="src\OGL\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\OGL\App.cpp" />

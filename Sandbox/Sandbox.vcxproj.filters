@@ -15,18 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\OGL\Core.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="src\OGL\App.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="src\OGL.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\OGL\App.cpp">
+    <ClCompile Include="src\Sandbox.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

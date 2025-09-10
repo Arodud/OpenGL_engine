@@ -9,5 +9,8 @@ namespace OGL {
 		virtual ~App();
 		void Run();
 	};
+
+	App* CreateApp();
+	//DEFINED IN APP
 }
 
